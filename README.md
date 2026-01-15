@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rondleysg&label=Profile%20views&color=000000&style=flat" alt="rondleysg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rondleysg" alt="rondleysg" /></a> </p>
-
 - 🔭 I’m currently working on [quero delivery](https://querodelivery.com/)
 
-- 🌱 I’m currently learning **WebdriverIO**
+- 🌱 Continuously evolving in **software quality, automation, and processes**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rondleysg](https://github.com/Rondleysg)
 
