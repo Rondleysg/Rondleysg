@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rondleysg](https://github.com/Rondleysg)
 
-- 📫 How to reach me **rondleyemail@gmail.com**
+- 📫 How to reach me **rondleytuto@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rondleysg/](https://www.linkedin.com/in/rondleysg/)
 
